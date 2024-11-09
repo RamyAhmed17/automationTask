@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="Tests.E2ESenario"/>
+            <class name="Tests.LoginTest"/>
+
+
+
+
+
+
+
+
+        </classes>
+    </test>
+</suite>
