@@ -38,7 +38,10 @@ to generate HTML report (TestNG has the ability to generate reports in HTML form
             <version>7.10.2</version>
             <scope>test</scope>
  </dependency> 
-        
-        
+
+        ## very important note 
+       - Writing test cases in Zephyr-scale integrated with jira did not completed 
+       - data source is hard coded ( using data driven testing ) 
+       because i have no time . please accept my apology.      
 
 
